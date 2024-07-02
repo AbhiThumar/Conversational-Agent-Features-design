@@ -1,5 +1,7 @@
-# Voice-Assistance-(Siri)-Feature
-We made some design for some additional features on the voice assistant which we use on our phone daily. The motive for making this was to make the life easy.
+# Conversational-Agent-(Siri)-Feature
+We made some design for some additional features on the Conversational Agent which we use on our phone daily. The motive for making this was to make the life easy.
+
+We have conducted a survey in our collage to gather the information about what features a user want and what he dislike/like the most in the Conversational Agent he/she uses. You can check the survey report file.
 
 We have used  Siri to show the design for the newly added features we made.
 
